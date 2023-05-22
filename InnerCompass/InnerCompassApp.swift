@@ -11,7 +11,8 @@ import SwiftUI
 struct InnerCompassApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }
+
